@@ -14,10 +14,10 @@
 // let userId: any = "USER1400";
 // getUserName(userId);
 
-interface Course {
-  title: string;
-  category: string;
-}
+// interface Course {
+//   title: string;
+//   category: string;
+// }
 
-const getCourse = (p: Course) => `${p.title} ${p.category}`;
-const getCourseWithAny = (p: any) => `${p.name} ${p.category}`;
+// const getCourse = (p: Course) => `${p.title} ${p.category}`;
+// const getCourseWithAny = (p: any) => `${p.name} ${p.category}`;
