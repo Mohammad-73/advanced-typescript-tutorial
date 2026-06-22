@@ -8,7 +8,7 @@
 // const iconButton = "icon"
 // renderButton(iconButton);
 
-// ------------
+// ---------------
 
 // declare function setColor(color: readonly [number, number, number]): void;
 
