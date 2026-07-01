@@ -1,0 +1,27 @@
+{
+  "name": "advanced-typescript-tutorial",
+  "version": "1.0.0",
+  "description": "Advanced TS tutorial",
+  "homepage": "https://github.com/Mohammad-73/advanced-typescript-tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/Mohammad-73/advanced-typescript-tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-73/advanced-typescript-tutorial.git"
+  },
+  "license": "ISC",
+  "author": "Mohammad Khalili",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.6.0",
+    "globals": "^17.7.0",
+    "jiti": "^2.7.0",
+    "typescript-eslint": "^8.62.1"
+  }
+}
